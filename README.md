@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi, I'm Kaden.
 
-<!--
-**kadenscott/kadenscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\[ [website](https://kaden.sh) \]  \[ [discord](https://chat.ksc.sh) \]  \[ [youtube](https://yt.ksc.sh) \]  \[ [twitter](https://twitter.com/bluelyDev) \]
 
-Here are some ideas to get you started:
+### My repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [kadenscott/Quantum](https://github.com/kadenscott/Quantum)
+
+> Quantum is a Minecraft plugin providing /rtp, /wild, and random spawn utilities for Minecraft.
+
+#### [kadenscott/Crash](https://github.com/kadenscott/Crash)
+
+> A Minecraft plugin which adds fun, casino-inspired minigames to your server!
+
+#### [kadenscott/kaden.sh](https://github.com/kadenscott/kaden.sh)
+
+> The repository for my personal website.
+
+#### [kadenscott/kscott.dev](https://github.com/kadenscott/kscott.dev)
+
+> The repository for my other website.
