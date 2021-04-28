@@ -12,6 +12,14 @@ Hi, I'm Kaden.
 
 > A Minecraft plugin which adds fun, casino-inspired minigames to your server!
 
+#### [kadenscott/startcraft](https://github.com/kadenscott/startcraft)
+
+> A command line utility to rapidly create and launch Minecraft servers.
+
+#### [kadenscott/BlockLoc](https://github.com/kadenscott/BlockLoc)
+
+> A Minecraft utility plugin which counts the amount of blocks in a WorldEdit selection.
+
 #### [kadenscott/kaden.sh](https://github.com/kadenscott/kaden.sh)
 
 > The repository for my personal website.
